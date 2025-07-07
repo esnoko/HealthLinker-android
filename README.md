@@ -1,6 +1,6 @@
 # HealthLinkers Android App
 
-This repository contains the Android project for the HealthLinkers app, built with [Capacitor](https://capacitorjs.com/) and Android native code.
+HealthLinkers is a mobile application designed to bridge the gap between patients and healthcare providers. The app streamlines appointment scheduling, enables secure communication, and provides users with easy access to their medical information—all from their Android device. By leveraging modern web technologies with [Capacitor](https://capacitorjs.com/) and native Android code, HealthLinkers delivers a seamless, cross-platform healthcare experience.
 
 ## Project Structure
 
